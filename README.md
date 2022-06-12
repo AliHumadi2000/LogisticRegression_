@@ -1,5 +1,9 @@
 # LogisticRegression_
+## The Logistic Regression is a regression model in which the response variable (dependent variable) has categorical values such as True/False or 0/1. It actually measures the probability of a binary response as the value of response variable based on the mathematical equation relating it with the predictor variables.
 
+## The general mathematical equation for logistic regression is −
+
+## y = 1/(1+e^-(a+b1x1+b2x2+b3x3+...))
 ## Output variable -> y
 ## y -> Whether the client has subscribed a term deposit or not 
 ## Binomial ("yes" or "no")
