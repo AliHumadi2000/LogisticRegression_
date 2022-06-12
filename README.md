@@ -36,3 +36,17 @@
  ###  17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
 ### 8. Missing Attribute Values: None
+
+
+#
+![](Image\1.PNG)
+#
+![](Image\2.PNG)
+#
+![](Image\3.PNG)
+#
+![](Image\4.png)
+#
+![](Image\5.png)
+#
+![](Image\6.PNG)
