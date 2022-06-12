@@ -38,15 +38,15 @@
 ### 8. Missing Attribute Values: None
 
 
-#
+# Dataset structure
 ![](Image/1.PNG)
-#
+# plot
 ![](Image/2.PNG)
-#
+# visulize target feature
 ![](Image/3.PNG)
-#
+# Outliers
 ![](Image/4.png)
-#
+# Correlation
 ![](Image/5.png)
-#
+# evaluaiton
 ![](Image/6.PNG)
